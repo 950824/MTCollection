@@ -1,1 +1,1126 @@
-var _0x1ccead=_0x16c1;function _0x16c1(_0x1ae128,_0x58d398){var _0x30143d=_0x84f3();return _0x16c1=function(_0x32bb06,_0x19a41e){_0x32bb06=_0x32bb06-(-0x447+-0x8e6+0xeb6);var _0x148b1c=_0x30143d[_0x32bb06];return _0x148b1c;},_0x16c1(_0x1ae128,_0x58d398);}function _0x84f3(){var _0x835c94=['100','MT12','queren.mp3','keyShop2','你有25个金币，你可','.push({\x0a\x09\x09','MT9','error.mp3','没有难度选择：直接开','1176gmmvfr','t/material','这是一个很古老的故事','天空飞来一群可怕的怪','足迹走遍了全国的各个','moneyShop1','shop.mp3','.mp3','ion\x20(one)\x20','12354864hIMPPB','\x22text\x22:\x20on','于，在国王命令下达的','\x27);\x0acore.a','角落，\x0a可一点儿线索','购买1把红钥匙（10','waitAsync','填写称号','点击“开始游戏”','发了，可是，却没有一','是否观看片头？（四十','物，\x0a它们来到皇宫，','ey>=10','{\x0acore.add','只要你有足够的经验，','582ouHIZm','购入钥匙','MT11','MT18','ey>=100','回放录像','tText中的事件','clearMap','core.statu','yellowKey.','core.__PIX','1000','例进行自己创建等待用','>=30','Bgm()\x0a}','增加20点防御',';\x20caret-co','MT19','13,32','点击“读取存档”','-color:\x20bl','情楼层）进行操作。','MT23w','hand','>=100','Each(funct','playBgm','MT2','MT1','就过去了一个月。\x0a终','recovery.m','\x09[经验老人,man','FF;','break','(!core.isR',':\x20\x22functio',']你好，英雄的人类，','Verdana','以任意选择一项：','你可以任意选择一项：','d.mp3','save.mp3','status:atk','function()','eyShop]想要增','.png','理，请设置\x20core','Choose.for','tion','\x09[购入钥匙,tra','你有100个金币，\x0a','{\x0acore.con','全国下达了紧急令，\x0a','MT21','MT22','ng)\x20repeat','36264LPFdTh','expShop2','open_ui.mp','title.png',':\x20\x22choices','drawSelect','oseReplayF','bgm.mp3','tip','有着这样一个王国，\x0a','null','ddItem(\x27re','4000','卖出钥匙','eplaying()','此处是初始等级，只需','接下来会执行star','lor:\x20#FFFF','comment','\x27\x20）','ces\x20=\x20[];\x0a','m(\x27blueKey','新版商店中需要手动扣','。\x0a第二天，国王便向','101IEgAQD','ian.mp3','MT16','enableLv','dragon.png','在这里可以用事件来自','户操作来处理不同的难','便是从这里开始……','\x20%\x203','状态栏默认处于隐藏状','scrollText','ey>=50','winskin.pn','态栏”事件进行显示。','购买1把黄钥匙（10','岛上，曾看到一群怪物','re.hideBlo','ction\x20+\x201)','\x0a在很久很久以前，在','centerFly.','png','\x201px\x20solid','keySold.mp','乐。\x0a突然有一天，从','都生活得非常幸福和快','定义绘制标题界面的背','\x20+\x20\x22\x27;\x20}\x22\x20','加你的能力吗？\x0a如果','setValue','confirm.mp','MT8','MT5','door.mp3','MT0\x27);\x0acor','态；可以使用“显示状','confirm','MT7','MT0','redKey.png','Bar','ck(6,\x209,\x20\x27','也可以直接切换到其他','load.mp3','攻击+4','moneyShop2','enableAtk','display:no','ction()\x20{\x20','增加4000点生命','olor:\x20#FFF','setText','s\x20});\x0a}','blackMagic','redWizard.','s.hard\x20=\x20\x27','hero.png','金币，我就可以帮你：','der]相信你一定有','keyShop1','度分歧。\x0a如需自己处','800','减金币和增加访问次数','提升三级（270）','在“回放录像”确定','FFF;\x20borde','楼层（比如某个开始剧','王国虽小但全国的人们','始游戏','setVolume','enableHP','遥远的西方大地上，\x0a','pickaxe.mp','e.title\x20||','增加20点攻击','trol.check','n({\x20\x22type\x22','270','增加防御5（30）','{\x0a\x09choices','261\x20+\x2040*f','rd\x20\x0a（例如，自定','来，他便将王位让给他','>=270','63185hGdEet','112qpIXIn','while','icePickaxe','flag:selec','s\x22:\x20choice','MT17','equip.mp3','setAttribu','unlockCtrl','选择项。','MT20','\x09\x09{\x20\x22type\x22','11楼商店','MT10','bomb.mp3','previewUI','area1.mp3','switch','status:exp','status:def','owKey\x27);\x0ac','Item(\x27yell','sword','step.mp3','都没有找到，时间很快','magictower','status:hp','dragon_','city:\x201;\x20c','status:mon','strokeRect','prologue.m','brave.png','cancel.mp3','个人可以回来，\x0a有幸','MT15','${core.fir','ile()\x0a}','出现过。\x0a勇士们又出','function','ELS__','le}','景图等','wKey','ack;\x20color','zone.mp3','恭喜升级','框进行显示选择项','bg.jpg','。\x0a于是，全国的勇士','增加攻击17（95）','ion','光标上键','e.setBlock','item:blueK',':\x20white','你也可以仿照上面的样','ame\x20||\x20\x27\x27)','url(projec','抢走了国王唯一的女儿','这里只提供了一个显示','rd\x20=\x20\x27Easy','playSound','fillBoldTe','增加防御17（95）','keyUnsold.','wait','area3.mp3','回来的，都再也不敢去','center','mouse','fillRect','在“读取存档”确定','item:book','background','(main.leve','whiteKing.','brownWizar','item:yello','读取存档','\x22\x20+\x20(one.n','远方归来的人告诉国王','bear.png','MT_1','生命+800','7066SaCzyb','在右下方自绘一个对话','勇士：','cursor.mp3','70VFTtdt','stData.tit','ore.addIte','只要谁能将公主给找回','10726245dKkJFG','floor.mp3','startText.','enableMone','r:\x20#000000','main.level','37194oamdim','mp3','ction\x20+\x202)','提升一级（100）','enableKeys','五楼老人','光标下键','00000;\x20opa','attack.mp3','MT4','难度选择：作为样例，','s/ground.p','gem.mp3','lChoose.le','ey>=25','bold\x2040px\x20','MT23s','了。\x0a而我们的故事，','blueKey.pn','MT13','.status.ha','-color:\x20#0','hideStatus','constants.','\x27)\x0a}','area2.mp3','}\x0a\x09\x09]\x0a\x09});','点击“播放录像”','{\x0acore.cho','project/im','>=95','item:redKe','nsertActio','bold\x2025px\x20','MT6','\x22,\x20\x22choice','lag:select','在“开始游戏”确定','义js脚本：core','三楼商店','第三十一天，\x0a一个从','ELS__\x20/\x202','ages/title','keyboard','24层魔塔','enableDef','ion\x22:\x20\x22fun','购买1把蓝钥匙（50','MT14','{\x0avar\x20choi','tion\x22:\x20[\x0a\x09','\x0a})\x0acore.i','回收钥匙商店','我就可以让你变得更强','，\x0a说在海边的一座小','\x09[金币商店,mon','开始游戏','增加攻击5（30）','3000','(\x27fairy\x27,\x20','zone','n\x22,\x20\x22funct','item.mp3','callLoad','5,\x209,\x20\x27MT0','(flag:sele','dialogue.m','322960CrYTVs','enableFloo','title.wav','\x20\x27\x27,\x0a\x09\x09\x22ac','防御+4','enableExp','expShop1','status:lv','pauseBgm','jump.mp3','MT3','13楼老人','特殊的需要，只要你有','MT23e','ngth\x20==\x200)','dKey\x27);\x0aco','Ver\x201.12','们都出发了。\x0a他们的'];_0x84f3=function(){return _0x835c94;};return _0x84f3();}(function(_0xc0bccd,_0x5f00f3){var _0x1495af=_0x16c1,_0x501587=_0xc0bccd();while(!![]){try{var _0x2d54c2=parseInt(_0x1495af(0x1b7))/(0xdb4*0x2+0x14db+-0x3042)*(-parseInt(_0x1495af(0x260))/(-0x9ce+0x1071*-0x1+0x1a41))+parseInt(_0x1495af(0x26e))/(0x1a67+0xbf0+-0xdf*0x2c)*(-parseInt(_0x1495af(0x20b))/(-0x1b42*0x1+0x1897+-0x2af*-0x1))+-parseInt(_0x1495af(0x20a))/(-0x1444+-0x9*0x175+-0x5a*-0x5f)*(parseInt(_0x1495af(0x2e4))/(-0x1cc0+0x213e+0x2*-0x23c))+parseInt(_0x1495af(0x2cc))/(0x6e*0x33+0xda+-0x16bd)*(parseInt(_0x1495af(0x19f))/(-0x1130+0x1*0x1f19+0xb*-0x143))+parseInt(_0x1495af(0x268))/(-0x15fd+-0x1848+-0x1727*-0x2)+-parseInt(_0x1495af(0x264))/(0x14d8+-0x22aa+0xddc)*(parseInt(_0x1495af(0x2b1))/(0x1ab3+0x56c*0x7+-0x409c))+parseInt(_0x1495af(0x2d5))/(-0x1b5+0x25*0x6f+-0xe4a);if(_0x2d54c2===_0x5f00f3)break;else _0x501587['push'](_0x501587['shift']());}catch(_0x3f507a){_0x501587['push'](_0x501587['shift']());}}}(_0x84f3,-0x71365+0x4d29b+-0xf2fdd*-0x1));var data_a1e2fb4a_e986_4524_b0da_9b7ba7c0874d={'main':{'floorIds':[_0x1ccead(0x1dc),_0x1ccead(0x300),_0x1ccead(0x2ff),_0x1ccead(0x2bb),_0x1ccead(0x277),_0x1ccead(0x1d6),_0x1ccead(0x290),_0x1ccead(0x1db),_0x1ccead(0x1d5),_0x1ccead(0x2c9),_0x1ccead(0x218),_0x1ccead(0x2e6),_0x1ccead(0x2c4),_0x1ccead(0x281),_0x1ccead(0x29e),_0x1ccead(0x22e),_0x1ccead(0x1b9),_0x1ccead(0x210),_0x1ccead(0x2e7),_0x1ccead(0x2f5),_0x1ccead(0x215),_0x1ccead(0x19c),_0x1ccead(0x19d),_0x1ccead(0x2fa),_0x1ccead(0x2be),_0x1ccead(0x27e),_0x1ccead(0x25e)],'floorPartitions':[],'images':[_0x1ccead(0x25d),_0x1ccead(0x23b),_0x1ccead(0x280)+'g',_0x1ccead(0x22b),_0x1ccead(0x1bb),_0x1ccead(0x1ee),_0x1ccead(0x1dd),_0x1ccead(0x1a2),_0x1ccead(0x1c3)+'g',_0x1ccead(0x2ed)+_0x1ccead(0x1cb)],'tilesets':[_0x1ccead(0x224)+_0x1ccead(0x194)],'animates':[_0x1ccead(0x2fb),_0x1ccead(0x221),_0x1ccead(0x2aa)],'bgms':[_0x1ccead(0x2b3),_0x1ccead(0x26a)+_0x1ccead(0x26f),_0x1ccead(0x22a)+'p3',_0x1ccead(0x21b),_0x1ccead(0x287),_0x1ccead(0x24e)],'sounds':[_0x1ccead(0x276),_0x1ccead(0x1eb)+_0x1ccead(0x1b8),_0x1ccead(0x258)+_0x1ccead(0x18f),_0x1ccead(0x22c),_0x1ccead(0x1ca)+_0x1ccead(0x26f),_0x1ccead(0x1d4)+'3',_0x1ccead(0x285)+_0x1ccead(0x26f),_0x1ccead(0x263),_0x1ccead(0x2b0)+'p3',_0x1ccead(0x1d7),_0x1ccead(0x211),_0x1ccead(0x2ca),_0x1ccead(0x269),_0x1ccead(0x27a),_0x1ccead(0x20d)+_0x1ccead(0x2d3),_0x1ccead(0x2ac),_0x1ccead(0x2ba),_0x1ccead(0x1cd)+'3',_0x1ccead(0x24c)+_0x1ccead(0x26f),_0x1ccead(0x1e1),_0x1ccead(0x1a1)+'3',_0x1ccead(0x2c5),_0x1ccead(0x302)+'p3',_0x1ccead(0x1ec)+_0x1ccead(0x26f),_0x1ccead(0x190),_0x1ccead(0x222),_0x1ccead(0x213)+_0x1ccead(0x2d3),_0x1ccead(0x257)+_0x1ccead(0x26f),_0x1ccead(0x238)],'fonts':[],'nameMap':{'确定':_0x1ccead(0x1d4)+'3','取消':_0x1ccead(0x22c),'操作失败':_0x1ccead(0x2ca),'光标移动':_0x1ccead(0x263),'打开界面':_0x1ccead(0x1a1)+'3','读档':_0x1ccead(0x1e1),'存档':_0x1ccead(0x190),'获得道具':_0x1ccead(0x2ac),'回血':_0x1ccead(0x302)+'p3','炸弹':_0x1ccead(0x219),'飞行器':_0x1ccead(0x1ca)+_0x1ccead(0x26f),'开关门':_0x1ccead(0x1d7),'上下楼':_0x1ccead(0x269),'跳跃':_0x1ccead(0x2ba),'破墙镐':_0x1ccead(0x1fe)+'3','破冰镐':_0x1ccead(0x20d)+_0x1ccead(0x2d3),'宝石':_0x1ccead(0x27a),'阻激夹域':_0x1ccead(0x238),'穿脱装备':_0x1ccead(0x211),'背景音乐':_0x1ccead(0x1a6),'攻击':_0x1ccead(0x276),'背景图':_0x1ccead(0x23b),'商店':_0x1ccead(0x2d2),'领域':_0x1ccead(0x2aa)},'levelChoose':[],'equipName':['武器','盾牌'],'startBgm':_0x1ccead(0x2b3),'styles':{'startBackground':_0x1ccead(0x28b)+_0x1ccead(0x298)+_0x1ccead(0x194),'startVerticalBackground':_0x1ccead(0x28b)+_0x1ccead(0x298)+_0x1ccead(0x194),'startLogoStyle':_0x1ccead(0x1e5)+'ne','startButtonsStyle':_0x1ccead(0x255)+_0x1ccead(0x283)+_0x1ccead(0x275)+_0x1ccead(0x227)+_0x1ccead(0x1e8)+_0x1ccead(0x1f7)+_0x1ccead(0x26c)+_0x1ccead(0x1cc)+_0x1ccead(0x2f4)+_0x1ccead(0x1b0)+_0x1ccead(0x304),'statusLeftBackground':_0x1ccead(0x245)+_0x1ccead(0x2cd)+_0x1ccead(0x279)+_0x1ccead(0x19e),'statusTopBackground':_0x1ccead(0x245)+_0x1ccead(0x2cd)+_0x1ccead(0x279)+_0x1ccead(0x19e),'toolsBackground':_0x1ccead(0x245)+_0x1ccead(0x2cd)+_0x1ccead(0x279)+_0x1ccead(0x19e),'floorChangingStyle':_0x1ccead(0x255)+_0x1ccead(0x2f8)+_0x1ccead(0x237)+_0x1ccead(0x242),'statusBarColor':[-0x163e+0x7be+0xf7f,0x186*-0xd+-0x21b9+0x3686,0x1*-0x140b+-0xa9d+-0xdb*-0x25,-0xa14+-0x91*-0x31+-0x9c*0x1d],'borderColor':[-0xe8c+0x1c04+-0xc7e,-0x21f6+-0xc*0xef+0x20*0x16d,0x6c0+-0xbde+0xa*0x83,-0x51d*-0x1+0x6*-0x238+0x834],'selectColor':[0x127*0x1a+0x46f*-0x1+-0x1888,-0x4f*-0x39+0x100*-0x1+-0xfc0,0x373*0xb+-0xd00+-0x18f1,0xe21+-0xfc4+0x1a4],'font':_0x1ccead(0x18c)},'splitImages':[{'name':_0x1ccead(0x1bb),'width':0x180,'height':0x60,'prefix':_0x1ccead(0x226)}]},'firstData':{'title':_0x1ccead(0x29a),'name':'24','version':_0x1ccead(0x2c1),'floorId':_0x1ccead(0x1dc),'hero':{'image':_0x1ccead(0x1ee),'animate':![],'name':_0x1ccead(0x262),'lv':0x1,'hpmax':0x270f,'hp':0x3e8,'manamax':-(0x2084+0x644*-0x5+0x3*-0x65),'mana':0x0,'atk':0xa,'def':0xa,'mdef':0x0,'money':0x0,'exp':0x0,'equipment':[],'items':{'constants':{},'tools':{},'equips':{}},'loc':{'direction':'up','x':0x6,'y':0xa},'flags':{},'followers':[],'steps':0x0},'startCanvas':[{'type':_0x1ccead(0x1b1),'text':_0x1ccead(0x1bc)+_0x1ccead(0x1d0)+_0x1ccead(0x235)},{'type':_0x1ccead(0x1b1),'text':_0x1ccead(0x1e0)+_0x1ccead(0x1f8)+_0x1ccead(0x2f9)},{'type':_0x1ccead(0x21a),'action':[{'type':_0x1ccead(0x252),'x':0x0,'y':0x0,'width':_0x1ccead(0x2ee)+_0x1ccead(0x233),'height':_0x1ccead(0x2ee)+_0x1ccead(0x233),'style':[-0x1*0xe39+0xd*0x71+0x31*0x2e,0x99e+-0x5*-0x601+0xd1b*-0x3,0x81*-0x1a+0x1bb*0x12+0x11ba*-0x1,-0x955*-0x3+-0x1*-0xb1c+-0x271a]},{'type':_0x1ccead(0x212)+'te','align':_0x1ccead(0x250)},{'type':_0x1ccead(0x24a)+'xt','x':_0x1ccead(0x2ee)+_0x1ccead(0x297),'y':0x50,'style':[0x25ba+0x1b52+-0x400d*0x1,0x2101+-0x1*0x1572+-0xa90,-0x13d7+-0xb*0xb3+0x1c87,0x6*-0x15f+0x11b9+-0x195*0x6],'strokeStyle':[-0x1237*0x1+0x26f8+-0x14c1*0x1,0x2248+-0x25f*-0x7+-0xa2d*0x5,0xa7b*0x3+-0xc95*0x1+-0x12dc,-0x20f4+-0xf57+0x464*0xb],'font':_0x1ccead(0x27d)+_0x1ccead(0x18c),'text':_0x1ccead(0x22f)+_0x1ccead(0x265)+_0x1ccead(0x234)}]},{'type':_0x1ccead(0x1d3),'name':_0x1ccead(0x20e)+_0x1ccead(0x197),'value':'0'},{'type':_0x1ccead(0x1b1),'text':_0x1ccead(0x261)+_0x1ccead(0x23a)},{'type':_0x1ccead(0x21a),'action':[{'type':_0x1ccead(0x252),'x':0xe6,'y':0xfa,'width':0x96,'height':0x8e,'radius':0xa,'style':[-0x1b8+0x11c9+0xef*-0x11,-0x511*0x5+0x1950+0x3b,0x115*-0x1a+0x8*-0x3a9+0x3a09,-0x1f3d+0x918+0x1625+0.85]},{'type':_0x1ccead(0x229),'x':0xe6,'y':0xfa,'width':0x96,'height':0x8e,'radius':0xa,'style':[0x1*-0x1fe1+-0xddc+0x2ebc,0x11ec+0x25c*-0x6+-0x2c5,0x218f+0x421*-0x9+0xb*0x6b,0x144c+-0x58a*-0x1+0x11*-0x185],'lineWidth':0x2},{'type':_0x1ccead(0x24a)+'xt','x':0x131,'y':0x122,'style':[0x480+0x1*0x2669+-0x122*0x25,-0xbd1+0xb38+0x33*0x8,-0x1*0x65b+-0x2195*-0x1+-0x1a3b,0x3d2+-0x5*-0x39c+-0x15dd],'font':_0x1ccead(0x28f)+_0x1ccead(0x18c),'text':_0x1ccead(0x2a6)},{'type':_0x1ccead(0x24a)+'xt','x':0x131,'y':0x14a,'font':_0x1ccead(0x28f)+_0x1ccead(0x18c),'text':_0x1ccead(0x25a)},{'type':_0x1ccead(0x24a)+'xt','x':0x131,'y':0x172,'font':_0x1ccead(0x28f)+_0x1ccead(0x18c),'text':_0x1ccead(0x2e9)}]},{'type':_0x1ccead(0x20c),'condition':'1','data':[{'type':_0x1ccead(0x1a4)+'or','image':_0x1ccead(0x1c3)+'g','code':0x1,'x':0xf5,'y':_0x1ccead(0x206)+_0x1ccead(0x292)+_0x1ccead(0x23e),'width':0x78,'height':0x28},{'type':_0x1ccead(0x24d),'data':[{'case':_0x1ccead(0x299),'keycode':_0x1ccead(0x2f6),'break':!![],'action':[{'type':_0x1ccead(0x21c),'condition':_0x1ccead(0x20e)+_0x1ccead(0x197),'caseList':[{'case':'0','action':[{'type':_0x1ccead(0x1b1),'text':_0x1ccead(0x293)},{'type':_0x1ccead(0x305),'n':0x1}]},{'case':'1','action':[{'type':_0x1ccead(0x1b1),'text':_0x1ccead(0x253)},{'type':_0x1ccead(0x2ad)}]},{'case':'2','action':[{'type':_0x1ccead(0x1b1),'text':_0x1ccead(0x1f6)},{'type':'if','condition':_0x1ccead(0x189)+_0x1ccead(0x1ad)+')','true':[{'type':_0x1ccead(0x232),'function':_0x1ccead(0x192)+_0x1ccead(0x28a)+_0x1ccead(0x1a5)+_0x1ccead(0x230)}]}]}]}]},{'case':_0x1ccead(0x299),'keycode':'38','break':!![],'action':[{'type':_0x1ccead(0x1b1),'text':_0x1ccead(0x23f)},{'type':_0x1ccead(0x1d3),'name':_0x1ccead(0x20e)+_0x1ccead(0x197),'value':_0x1ccead(0x2af)+_0x1ccead(0x270)+_0x1ccead(0x1bf)}]},{'case':_0x1ccead(0x299),'keycode':'40','break':!![],'action':[{'type':_0x1ccead(0x1b1),'text':_0x1ccead(0x274)},{'type':_0x1ccead(0x1d3),'name':_0x1ccead(0x20e)+_0x1ccead(0x197),'value':_0x1ccead(0x2af)+_0x1ccead(0x1c8)+_0x1ccead(0x1bf)}]},{'case':_0x1ccead(0x251),'px':[-0x1*0x1145+0x9*-0x2bd+-0x893*-0x5,0x1b78+0x1027*0x1+-0x2a32],'py':[0x1513+0x16bb*0x1+0x9*-0x4c1,0x2*0x10a2+-0xed*-0x1c+-0x4*0xe81],'break':!![],'action':[{'type':_0x1ccead(0x1b1),'text':_0x1ccead(0x2dd)},{'type':_0x1ccead(0x305),'n':0x1}]},{'case':_0x1ccead(0x251),'px':[0x1ac3+-0x1379+-0x655,0xca*-0x1a+-0xb5*0x37+0x3cd4],'py':[0x1a*-0xa3+-0x8fe+-0x1ab9*-0x1,-0x35*0xa5+-0xba+0x2437],'break':!![],'action':[{'type':_0x1ccead(0x1b1),'text':_0x1ccead(0x2f7)},{'type':_0x1ccead(0x2ad)}]},{'case':_0x1ccead(0x251),'px':[0x7d8*-0x2+-0x6*-0x34b+-0x31d,0xbe9*-0x1+-0x1d93*0x1+0x2ae9],'py':[-0x26ff+-0x9c8+0x321c,-0xc8f+0x135e*-0x1+-0xb23*-0x3],'break':!![],'action':[{'type':_0x1ccead(0x1b1),'text':_0x1ccead(0x289)},{'type':'if','condition':_0x1ccead(0x189)+_0x1ccead(0x1ad)+')','true':[{'type':_0x1ccead(0x232),'function':_0x1ccead(0x192)+_0x1ccead(0x28a)+_0x1ccead(0x1a5)+_0x1ccead(0x230)}]}]}]}]},{'type':_0x1ccead(0x1d3),'name':_0x1ccead(0x20e)+_0x1ccead(0x197),'value':_0x1ccead(0x1a9)},{'type':_0x1ccead(0x1a4)+'or','code':0x1},{'type':_0x1ccead(0x2eb)},{'type':_0x1ccead(0x232),'function':_0x1ccead(0x192)+_0x1ccead(0x19a)+_0x1ccead(0x201)+_0x1ccead(0x2f2)},{'type':'if','condition':_0x1ccead(0x256)+_0x1ccead(0x27b)+_0x1ccead(0x2bf),'true':[{'type':_0x1ccead(0x1b1),'text':_0x1ccead(0x2cb)+_0x1ccead(0x1fa)}],'false':[{'type':_0x1ccead(0x1b1),'text':_0x1ccead(0x278)+_0x1ccead(0x247)+_0x1ccead(0x214)},{'type':_0x1ccead(0x232),'function':_0x1ccead(0x192)+_0x1ccead(0x29f)+_0x1ccead(0x1b3)+_0x1ccead(0x26d)+_0x1ccead(0x196)+_0x1ccead(0x2fd)+_0x1ccead(0x2d4)+_0x1ccead(0x205)+_0x1ccead(0x2c8)+_0x1ccead(0x2d6)+_0x1ccead(0x1ff)+_0x1ccead(0x2b4)+_0x1ccead(0x2a0)+_0x1ccead(0x216)+_0x1ccead(0x18a)+_0x1ccead(0x2ab)+_0x1ccead(0x29c)+_0x1ccead(0x1e6)+_0x1ccead(0x2ec)+_0x1ccead(0x1ed)+_0x1ccead(0x25b)+_0x1ccead(0x244)+_0x1ccead(0x1d1)+_0x1ccead(0x288)+_0x1ccead(0x2a1)+_0x1ccead(0x28e)+_0x1ccead(0x202)+_0x1ccead(0x1a3)+_0x1ccead(0x291)+_0x1ccead(0x20f)+_0x1ccead(0x1ea)},{'type':_0x1ccead(0x1b1),'text':_0x1ccead(0x243)+_0x1ccead(0x2f0)+_0x1ccead(0x1bd)+_0x1ccead(0x1f2)+_0x1ccead(0x195)+_0x1ccead(0x282)+_0x1ccead(0x207)+_0x1ccead(0x294)+_0x1ccead(0x282)+_0x1ccead(0x248)+_0x1ccead(0x1b2)}]},{'type':_0x1ccead(0x2eb)},{'type':_0x1ccead(0x1b1),'text':_0x1ccead(0x1af)+_0x1ccead(0x2ea)},{'type':_0x1ccead(0x1b1),'text':_0x1ccead(0x1c0)+_0x1ccead(0x1d9)+_0x1ccead(0x1c4)}],'startText':[{'type':_0x1ccead(0x1d3),'name':_0x1ccead(0x254),'value':'1'},{'type':_0x1ccead(0x2b9)},{'type':_0x1ccead(0x284)+_0x1ccead(0x1de)},{'type':_0x1ccead(0x1da),'default':!![],'text':_0x1ccead(0x2df)+'秒）','yes':[{'type':_0x1ccead(0x1fb),'value':0x0,'time':0x0},{'type':_0x1ccead(0x2fe),'name':_0x1ccead(0x26a)+_0x1ccead(0x26f)},{'type':_0x1ccead(0x1fb),'value':0x64,'time':0x9c40,'async':!![]},{'type':_0x1ccead(0x1c1),'text':_0x1ccead(0x2ce)+_0x1ccead(0x1c9)+_0x1ccead(0x1fd)+_0x1ccead(0x1a8)+_0x1ccead(0x1f9)+_0x1ccead(0x1cf)+_0x1ccead(0x1ce)+_0x1ccead(0x2cf)+_0x1ccead(0x2e0)+_0x1ccead(0x246)+_0x1ccead(0x1b6)+_0x1ccead(0x19b)+_0x1ccead(0x267)+_0x1ccead(0x208)+_0x1ccead(0x23c)+_0x1ccead(0x2c2)+_0x1ccead(0x2d0)+_0x1ccead(0x2d9)+_0x1ccead(0x223)+_0x1ccead(0x301)+_0x1ccead(0x2d7)+_0x1ccead(0x296)+_0x1ccead(0x25c)+_0x1ccead(0x2a4)+_0x1ccead(0x1c6)+_0x1ccead(0x231)+_0x1ccead(0x2de)+_0x1ccead(0x22d)+_0x1ccead(0x24f)+_0x1ccead(0x27f)+_0x1ccead(0x1be),'time':0x9c40,'lineHeight':0x2},{'type':_0x1ccead(0x2db)}],'no':[{'type':_0x1ccead(0x232),'function':_0x1ccead(0x192)+_0x1ccead(0x2e2)+_0x1ccead(0x220)+_0x1ccead(0x21f)+_0x1ccead(0x266)+_0x1ccead(0x1b4)+_0x1ccead(0x2d8)+_0x1ccead(0x1aa)+_0x1ccead(0x2c0)+_0x1ccead(0x1c7)+_0x1ccead(0x1df)+_0x1ccead(0x1d8)+_0x1ccead(0x240)+_0x1ccead(0x2a9)+_0x1ccead(0x2ae)+_0x1ccead(0x286)}]},{'type':_0x1ccead(0x1e9),'title':[-0x25*0xd+-0x9bc*-0x3+-0xa*0x2a2,0x200b+0x6*0x2b0+-0x2f2c,-0x11ea+-0x1*0x11ff+-0x1*-0x24e8,0x11d4+-0x1*0x271+0x166*-0xb],'background':[0x701+0x18dc+-0x1fdd,0x2263+-0x2285+-0x11*-0x2,-0x14c4*0x1+0x91d*-0x1+0x1de1,0x1b04+-0x1135*0x1+-0x9ce]}],'shops':[{'id':_0x1ccead(0x2d1),'text':_0x1ccead(0x2a5)+_0x1ccead(0x193)+_0x1ccead(0x1d2)+_0x1ccead(0x2c7)+_0x1ccead(0x18d),'textInList':_0x1ccead(0x295),'mustEnable':![],'disablePreview':![],'choices':[{'text':_0x1ccead(0x25f),'need':_0x1ccead(0x228)+_0x1ccead(0x27c),'action':[{'type':_0x1ccead(0x1b1),'text':_0x1ccead(0x1b5)+_0x1ccead(0x1f4)},{'type':_0x1ccead(0x249),'name':_0x1ccead(0x2c5)},{'type':_0x1ccead(0x1d3),'name':_0x1ccead(0x228)+'ey','operator':'-=','value':'25'},{'type':_0x1ccead(0x1d3),'name':_0x1ccead(0x225),'operator':'+=','value':_0x1ccead(0x1f3)}]},{'text':_0x1ccead(0x1e2),'need':_0x1ccead(0x228)+_0x1ccead(0x27c),'action':[{'type':_0x1ccead(0x1b1),'text':_0x1ccead(0x1b5)+_0x1ccead(0x1f4)},{'type':_0x1ccead(0x249),'name':_0x1ccead(0x2c5)},{'type':_0x1ccead(0x1d3),'name':_0x1ccead(0x228)+'ey','operator':'-=','value':'25'},{'type':_0x1ccead(0x1d3),'name':_0x1ccead(0x191),'operator':'+=','value':'4'}]},{'text':_0x1ccead(0x2b5),'need':_0x1ccead(0x228)+_0x1ccead(0x27c),'action':[{'type':_0x1ccead(0x1b1),'text':_0x1ccead(0x1b5)+_0x1ccead(0x1f4)},{'type':_0x1ccead(0x249),'name':_0x1ccead(0x2c5)},{'type':_0x1ccead(0x1d3),'name':_0x1ccead(0x228)+'ey','operator':'-=','value':'25'},{'type':_0x1ccead(0x1d3),'name':_0x1ccead(0x21e),'operator':'+=','value':'4'}]}]},{'id':_0x1ccead(0x1e3),'text':_0x1ccead(0x2a5)+_0x1ccead(0x193)+_0x1ccead(0x1d2)+_0x1ccead(0x199)+_0x1ccead(0x18e),'textInList':_0x1ccead(0x217),'mustEnable':![],'disablePreview':!![],'choices':[{'text':_0x1ccead(0x1e7),'need':_0x1ccead(0x228)+_0x1ccead(0x2e8),'action':[{'type':_0x1ccead(0x249),'name':_0x1ccead(0x2c5)},{'type':_0x1ccead(0x1d3),'name':_0x1ccead(0x228)+'ey','operator':'-=','value':_0x1ccead(0x2c3)},{'type':_0x1ccead(0x1d3),'name':_0x1ccead(0x225),'operator':'+=','value':_0x1ccead(0x1ab)}]},{'text':_0x1ccead(0x200),'need':_0x1ccead(0x228)+_0x1ccead(0x2e8),'action':[{'type':_0x1ccead(0x249),'name':_0x1ccead(0x2c5)},{'type':_0x1ccead(0x1d3),'name':_0x1ccead(0x228)+'ey','operator':'-=','value':_0x1ccead(0x2c3)},{'type':_0x1ccead(0x1d3),'name':_0x1ccead(0x191),'operator':'+=','value':'20'}]},{'text':_0x1ccead(0x2f3),'need':_0x1ccead(0x228)+_0x1ccead(0x2e8),'action':[{'type':_0x1ccead(0x249),'name':_0x1ccead(0x2c5)},{'type':_0x1ccead(0x1d3),'name':_0x1ccead(0x228)+'ey','operator':'-=','value':_0x1ccead(0x2c3)},{'type':_0x1ccead(0x1d3),'name':_0x1ccead(0x21e),'operator':'+=','value':'20'}]}]},{'id':_0x1ccead(0x2b7),'text':_0x1ccead(0x303)+_0x1ccead(0x18b)+_0x1ccead(0x2e3)+_0x1ccead(0x2a3)+'大：','textInList':_0x1ccead(0x273),'mustEnable':![],'disablePreview':!![],'choices':[{'text':_0x1ccead(0x271),'need':_0x1ccead(0x21d)+_0x1ccead(0x2fc),'action':[{'type':_0x1ccead(0x249),'name':_0x1ccead(0x2c5)},{'type':_0x1ccead(0x1d3),'name':_0x1ccead(0x21d),'operator':'-=','value':_0x1ccead(0x2c3)},{'type':_0x1ccead(0x1d3),'name':_0x1ccead(0x2b8),'operator':'+=','value':'1'},{'type':_0x1ccead(0x1d3),'name':_0x1ccead(0x225),'operator':'+=','value':_0x1ccead(0x2ef)},{'type':_0x1ccead(0x1d3),'name':_0x1ccead(0x191),'operator':'+=','value':'7'},{'type':_0x1ccead(0x1d3),'name':_0x1ccead(0x21e),'operator':'+=','value':'7'}]},{'text':_0x1ccead(0x2a7),'need':_0x1ccead(0x21d)+_0x1ccead(0x2f1),'action':[{'type':_0x1ccead(0x249),'name':_0x1ccead(0x2c5)},{'type':_0x1ccead(0x1d3),'name':_0x1ccead(0x21d),'operator':'-=','value':'30'},{'type':_0x1ccead(0x1d3),'name':_0x1ccead(0x191),'operator':'+=','value':'5'}]},{'text':_0x1ccead(0x204),'need':_0x1ccead(0x21d)+_0x1ccead(0x2f1),'action':[{'type':_0x1ccead(0x249),'name':_0x1ccead(0x2c5)},{'type':_0x1ccead(0x1d3),'name':_0x1ccead(0x21d),'operator':'-=','value':'30'},{'type':_0x1ccead(0x1d3),'name':_0x1ccead(0x21e),'operator':'+=','value':'5'}]}]},{'id':_0x1ccead(0x1a0),'text':_0x1ccead(0x303)+_0x1ccead(0x18b)+_0x1ccead(0x2e3)+_0x1ccead(0x2a3)+'大：','textInList':_0x1ccead(0x2bc),'mustEnable':![],'disablePreview':!![],'choices':[{'text':_0x1ccead(0x1f5),'need':_0x1ccead(0x21d)+_0x1ccead(0x209),'action':[{'type':_0x1ccead(0x249),'name':_0x1ccead(0x2c5)},{'type':_0x1ccead(0x1d3),'name':_0x1ccead(0x21d),'operator':'-=','value':_0x1ccead(0x203)},{'type':_0x1ccead(0x1d3),'name':_0x1ccead(0x2b8),'operator':'+=','value':'3'},{'type':_0x1ccead(0x1d3),'name':_0x1ccead(0x225),'operator':'+=','value':_0x1ccead(0x2a8)},{'type':_0x1ccead(0x1d3),'name':_0x1ccead(0x191),'operator':'+=','value':'20'},{'type':_0x1ccead(0x1d3),'name':_0x1ccead(0x21e),'operator':'+=','value':'20'}]},{'text':_0x1ccead(0x23d),'need':_0x1ccead(0x21d)+_0x1ccead(0x28c),'action':[{'type':_0x1ccead(0x249),'name':_0x1ccead(0x2c5)},{'type':_0x1ccead(0x1d3),'name':_0x1ccead(0x21d),'operator':'-=','value':'95'},{'type':_0x1ccead(0x1d3),'name':_0x1ccead(0x191),'operator':'+=','value':'17'}]},{'text':_0x1ccead(0x24b),'need':_0x1ccead(0x21d)+_0x1ccead(0x28c),'action':[{'type':_0x1ccead(0x249),'name':_0x1ccead(0x2c5)},{'type':_0x1ccead(0x1d3),'name':_0x1ccead(0x21d),'operator':'-=','value':'95'},{'type':_0x1ccead(0x1d3),'name':_0x1ccead(0x21e),'operator':'+=','value':'17'}]}]},{'id':_0x1ccead(0x1f1),'text':_0x1ccead(0x198)+_0x1ccead(0x1f0)+_0x1ccead(0x2bd)+_0x1ccead(0x1ef),'textInList':_0x1ccead(0x2e5),'mustEnable':![],'disablePreview':!![],'choices':[{'text':_0x1ccead(0x1c5)+'）','need':_0x1ccead(0x228)+_0x1ccead(0x2e1),'action':[{'type':_0x1ccead(0x1d3),'name':_0x1ccead(0x228)+'ey','operator':'-=','value':'10'},{'type':_0x1ccead(0x1d3),'name':_0x1ccead(0x259)+_0x1ccead(0x236),'operator':'+=','value':'1'}]},{'text':_0x1ccead(0x29d)+'）','need':_0x1ccead(0x228)+_0x1ccead(0x1c2),'action':[{'type':_0x1ccead(0x1d3),'name':_0x1ccead(0x228)+'ey','operator':'-=','value':'50'},{'type':_0x1ccead(0x1d3),'name':_0x1ccead(0x241)+'ey','operator':'+=','value':'1'}]},{'text':_0x1ccead(0x2da)+'0）','need':_0x1ccead(0x228)+_0x1ccead(0x2e8),'action':[{'type':_0x1ccead(0x1d3),'name':_0x1ccead(0x228)+'ey','operator':'-=','value':_0x1ccead(0x2c3)},{'type':_0x1ccead(0x1d3),'name':_0x1ccead(0x28d)+'y','operator':'+=','value':'1'}]}]},{'id':_0x1ccead(0x2c6),'textInList':_0x1ccead(0x1ac),'mustEnable':![],'commonEvent':_0x1ccead(0x2a2)}],'levelUp':[{'need':'0','title':'','action':[{'type':_0x1ccead(0x1b1),'text':_0x1ccead(0x1ae)+_0x1ccead(0x2dc)}]},{'need':'20','title':'','action':[{'type':_0x1ccead(0x1d3),'name':_0x1ccead(0x191),'operator':'+=','value':'10'},{'type':_0x1ccead(0x1d3),'name':_0x1ccead(0x21e),'operator':'+=','value':'10'}]},{'need':'40','title':'','action':[{'type':_0x1ccead(0x1a7),'text':_0x1ccead(0x239)}]}]},'values':{'lavaDamage':0x64,'poisonDamage':0xa,'weakValue':0x14,'redGem':0x3,'blueGem':0x3,'greenGem':0x5,'redPotion':0xc8,'bluePotion':0x1f4,'yellowPotion':0x1f4,'greenPotion':0x320,'breakArmor':0.9,'counterAttack':0.1,'purify':0x3,'hatred':0x2,'animateSpeed':0x12c,'moveSpeed':0x64,'statusCanvasRowsOnMobile':0x3,'floorChangeTime':0x1f4},'flags':{'statusBarItems':[_0x1ccead(0x2b2)+'r',_0x1ccead(0x1ba),_0x1ccead(0x1fc),_0x1ccead(0x1e4),_0x1ccead(0x29b),_0x1ccead(0x26b)+'y',_0x1ccead(0x2b6),_0x1ccead(0x272)],'extendToolbar':!![],'flyNearStair':![],'flyRecordPosition':![],'itemFirstText':![],'equipboxButton':![],'enableAddPoint':![],'enableNegativeDamage':![],'betweenAttackMax':![],'useLoop':!![],'startUsingCanvas':![],'statusCanvas':!![],'enableEnemyPoint':!![],'enableGentleClick':!![],'ignoreChangeFloor':![],'canGoDeadZone':![],'enableMoveDirectly':!![],'enableRouteFolding':!![],'disableShopOnDamage':![],'blurFg':![]}};
+var data_a1e2fb4a_e986_4524_b0da_9b7ba7c0874d = 
+{
+	"main": {
+		"floorIds": [
+			"MT0",
+			"MT1",
+			"MT2",
+			"MT3",
+			"MT4",
+			"MT5",
+			"MT6",
+			"MT7",
+			"MT8",
+			"MT9",
+			"MT10",
+			"MT11",
+			"MT12",
+			"MT13",
+			"MT14",
+			"MT15",
+			"MT16",
+			"MT17",
+			"MT18",
+			"MT19",
+			"MT20",
+			"MT21",
+			"MT22",
+			"MT23w",
+			"MT23e",
+			"MT23s",
+			"MT_1"
+		],
+		"floorPartitions": [],
+		"images": [
+			"bear.png",
+			"bg.jpg",
+			"blueKey.png",
+			"brave.png",
+			"dragon.png",
+			"hero.png",
+			"redKey.png",
+			"title.png",
+			"winskin.png",
+			"yellowKey.png"
+		],
+		"tilesets": [
+			"magictower.png"
+		],
+		"animates": [
+			"hand",
+			"sword",
+			"zone"
+		],
+		"bgms": [
+			"title.wav",
+			"startText.mp3",
+			"prologue.mp3",
+			"area1.mp3",
+			"area2.mp3",
+			"area3.mp3"
+		],
+		"sounds": [
+			"attack.mp3",
+			"blackMagician.mp3",
+			"brownWizard.mp3",
+			"cancel.mp3",
+			"centerFly.mp3",
+			"confirm.mp3",
+			"constants.mp3",
+			"cursor.mp3",
+			"dialogue.mp3",
+			"door.mp3",
+			"equip.mp3",
+			"error.mp3",
+			"floor.mp3",
+			"gem.mp3",
+			"icePickaxe.mp3",
+			"item.mp3",
+			"jump.mp3",
+			"keySold.mp3",
+			"keyUnsold.mp3",
+			"load.mp3",
+			"open_ui.mp3",
+			"queren.mp3",
+			"recovery.mp3",
+			"redWizard.mp3",
+			"save.mp3",
+			"step.mp3",
+			"unlockCtrl.mp3",
+			"whiteKing.mp3",
+			"zone.mp3"
+		],
+		"fonts": [],
+		"nameMap": {
+			"确定": "confirm.mp3",
+			"取消": "cancel.mp3",
+			"操作失败": "error.mp3",
+			"光标移动": "cursor.mp3",
+			"打开界面": "open_ui.mp3",
+			"读档": "load.mp3",
+			"存档": "save.mp3",
+			"获得道具": "item.mp3",
+			"回血": "recovery.mp3",
+			"炸弹": "bomb.mp3",
+			"飞行器": "centerFly.mp3",
+			"开关门": "door.mp3",
+			"上下楼": "floor.mp3",
+			"跳跃": "jump.mp3",
+			"破墙镐": "pickaxe.mp3",
+			"破冰镐": "icePickaxe.mp3",
+			"宝石": "gem.mp3",
+			"阻激夹域": "zone.mp3",
+			"穿脱装备": "equip.mp3",
+			"背景音乐": "bgm.mp3",
+			"攻击": "attack.mp3",
+			"背景图": "bg.jpg",
+			"商店": "shop.mp3",
+			"领域": "zone"
+		},
+		"levelChoose": [],
+		"equipName": [
+			"武器",
+			"盾牌"
+		],
+		"startBgm": "title.wav",
+		"styles": {
+			"startBackground": "project/images/title.png",
+			"startVerticalBackground": "project/images/title.png",
+			"startLogoStyle": "display:none",
+			"startButtonsStyle": "background-color: #000000; opacity: 1; color: #FFFFFF; border: #000000 1px solid; caret-color: #FFFFFF;",
+			"statusLeftBackground": "url(project/materials/ground.png) repeat",
+			"statusTopBackground": "url(project/materials/ground.png) repeat",
+			"toolsBackground": "url(project/materials/ground.png) repeat",
+			"floorChangingStyle": "background-color: black; color: white",
+			"statusBarColor": [
+				255,
+				255,
+				255,
+				1
+			],
+			"borderColor": [
+				250,
+				118,
+				0,
+				1
+			],
+			"selectColor": [
+				255,
+				215,
+				0,
+				1
+			],
+			"font": "Verdana"
+		},
+		"splitImages": [
+			{
+				"name": "dragon.png",
+				"width": 384,
+				"height": 96,
+				"prefix": "dragon_"
+			}
+		]
+	},
+	"firstData": {
+		"title": "24层魔塔",
+		"name": "24",
+		"version": "",
+		"floorId": "MT0",
+		"hero": {
+			"image": "hero.png",
+			"animate": false,
+			"name": "勇士：",
+			"lv": 1,
+			"hpmax": 9999,
+			"hp": 1000,
+			"manamax": -1,
+			"mana": 0,
+			"atk": 10,
+			"def": 10,
+			"mdef": 0,
+			"money": 0,
+			"exp": 0,
+			"equipment": [],
+			"items": {
+				"constants": {},
+				"tools": {},
+				"equips": {}
+			},
+			"loc": {
+				"direction": "up",
+				"x": 6,
+				"y": 10
+			},
+			"flags": {},
+			"followers": [],
+			"steps": 0
+		},
+		"startCanvas": [
+			{
+				"type": "comment",
+				"text": "在这里可以用事件来自定义绘制标题界面的背景图等"
+			},
+			{
+				"type": "comment",
+				"text": "也可以直接切换到其他楼层（比如某个开始剧情楼层）进行操作。"
+			},
+			{
+				"type": "previewUI",
+				"action": [
+					{
+						"type": "fillRect",
+						"x": 0,
+						"y": 0,
+						"width": "core.__PIXELS__",
+						"height": "core.__PIXELS__",
+						"style": [
+							82,
+							82,
+							82,
+							1
+						]
+					},
+					{
+						"type": "setAttribute",
+						"align": "center"
+					},
+					{
+						"type": "fillBoldText",
+						"x": "core.__PIXELS__ / 2",
+						"y": 80,
+						"style": [
+							255,
+							255,
+							255,
+							1
+						],
+						"strokeStyle": [
+							0,
+							0,
+							0,
+							1
+						],
+						"font": "bold 40px Verdana",
+						"text": "${core.firstData.title}"
+					}
+				]
+			},
+			{
+				"type": "setValue",
+				"name": "flag:selection",
+				"value": "0"
+			},
+			{
+				"type": "comment",
+				"text": "在右下方自绘一个对话框进行显示选择项"
+			},
+			{
+				"type": "previewUI",
+				"action": [
+					{
+						"type": "fillRect",
+						"x": 230,
+						"y": 250,
+						"width": 150,
+						"height": 142,
+						"radius": 10,
+						"style": [
+							50,
+							54,
+							159,
+							0.85
+						]
+					},
+					{
+						"type": "strokeRect",
+						"x": 230,
+						"y": 250,
+						"width": 150,
+						"height": 142,
+						"radius": 10,
+						"style": [
+							255,
+							255,
+							255,
+							1
+						],
+						"lineWidth": 2
+					},
+					{
+						"type": "fillBoldText",
+						"x": 305,
+						"y": 290,
+						"style": [
+							255,
+							255,
+							255,
+							1
+						],
+						"font": "bold 25px Verdana",
+						"text": "开始游戏"
+					},
+					{
+						"type": "fillBoldText",
+						"x": 305,
+						"y": 330,
+						"font": "bold 25px Verdana",
+						"text": "读取存档"
+					},
+					{
+						"type": "fillBoldText",
+						"x": 305,
+						"y": 370,
+						"font": "bold 25px Verdana",
+						"text": "回放录像"
+					}
+				]
+			},
+			{
+				"type": "while",
+				"condition": "1",
+				"data": [
+					{
+						"type": "drawSelector",
+						"image": "winskin.png",
+						"code": 1,
+						"x": 245,
+						"y": "261 + 40*flag:selection",
+						"width": 120,
+						"height": 40
+					},
+					{
+						"type": "wait",
+						"data": [
+							{
+								"case": "keyboard",
+								"keycode": "13,32",
+								"break": true,
+								"action": [
+									{
+										"type": "switch",
+										"condition": "flag:selection",
+										"caseList": [
+											{
+												"case": "0",
+												"action": [
+													{
+														"type": "comment",
+														"text": "在“开始游戏”确定"
+													},
+													{
+														"type": "break",
+														"n": 1
+													}
+												]
+											},
+											{
+												"case": "1",
+												"action": [
+													{
+														"type": "comment",
+														"text": "在“读取存档”确定"
+													},
+													{
+														"type": "callLoad"
+													}
+												]
+											},
+											{
+												"case": "2",
+												"action": [
+													{
+														"type": "comment",
+														"text": "在“回放录像”确定"
+													},
+													{
+														"type": "if",
+														"condition": "(!core.isReplaying())",
+														"true": [
+															{
+																"type": "function",
+																"function": "function(){\ncore.chooseReplayFile()\n}"
+															}
+														]
+													}
+												]
+											}
+										]
+									}
+								]
+							},
+							{
+								"case": "keyboard",
+								"keycode": "38",
+								"break": true,
+								"action": [
+									{
+										"type": "comment",
+										"text": "光标上键"
+									},
+									{
+										"type": "setValue",
+										"name": "flag:selection",
+										"value": "(flag:selection + 2) % 3"
+									}
+								]
+							},
+							{
+								"case": "keyboard",
+								"keycode": "40",
+								"break": true,
+								"action": [
+									{
+										"type": "comment",
+										"text": "光标下键"
+									},
+									{
+										"type": "setValue",
+										"name": "flag:selection",
+										"value": "(flag:selection + 1) % 3"
+									}
+								]
+							},
+							{
+								"case": "mouse",
+								"px": [
+									245,
+									365
+								],
+								"py": [
+									261,
+									300
+								],
+								"break": true,
+								"action": [
+									{
+										"type": "comment",
+										"text": "点击“开始游戏”"
+									},
+									{
+										"type": "break",
+										"n": 1
+									}
+								]
+							},
+							{
+								"case": "mouse",
+								"px": [
+									245,
+									365
+								],
+								"py": [
+									301,
+									340
+								],
+								"break": true,
+								"action": [
+									{
+										"type": "comment",
+										"text": "点击“读取存档”"
+									},
+									{
+										"type": "callLoad"
+									}
+								]
+							},
+							{
+								"case": "mouse",
+								"px": [
+									245,
+									365
+								],
+								"py": [
+									341,
+									380
+								],
+								"break": true,
+								"action": [
+									{
+										"type": "comment",
+										"text": "点击“播放录像”"
+									},
+									{
+										"type": "if",
+										"condition": "(!core.isReplaying())",
+										"true": [
+											{
+												"type": "function",
+												"function": "function(){\ncore.chooseReplayFile()\n}"
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			{
+				"type": "setValue",
+				"name": "flag:selection",
+				"value": "null"
+			},
+			{
+				"type": "drawSelector",
+				"code": 1
+			},
+			{
+				"type": "clearMap"
+			},
+			{
+				"type": "function",
+				"function": "function(){\ncore.control.checkBgm()\n}"
+			},
+			{
+				"type": "if",
+				"condition": "(main.levelChoose.length == 0)",
+				"true": [
+					{
+						"type": "comment",
+						"text": "没有难度选择：直接开始游戏"
+					}
+				],
+				"false": [
+					{
+						"type": "comment",
+						"text": "难度选择：作为样例，这里只提供了一个显示选择项。"
+					},
+					{
+						"type": "function",
+						"function": "function(){\nvar choices = [];\nmain.levelChoose.forEach(function (one) {\n\tchoices.push({\n\t\t\"text\": one.title || '',\n\t\t\"action\": [\n\t\t\t{ \"type\": \"function\", \"function\": \"function() { core.status.hard = '\" + (one.name || '') + \"'; }\" }\n\t\t]\n\t});\n})\ncore.insertAction({ \"type\": \"choices\", \"choices\": choices });\n}"
+					},
+					{
+						"type": "comment",
+						"text": "你也可以仿照上面的样例进行自己创建等待用户操作来处理不同的难度分歧。\n如需自己处理，请设置 core.status.hard \n（例如，自定义js脚本：core.status.hard = 'Easy' ）"
+					}
+				]
+			},
+			{
+				"type": "clearMap"
+			},
+			{
+				"type": "comment",
+				"text": "接下来会执行startText中的事件"
+			},
+			{
+				"type": "comment",
+				"text": "状态栏默认处于隐藏状态；可以使用“显示状态栏”事件进行显示。"
+			}
+		],
+		"startText": [
+			{
+				"type": "setValue",
+				"name": "item:book",
+				"value": "1"
+			},
+			{
+				"type": "pauseBgm"
+			},
+			{
+				"type": "hideStatusBar"
+			},
+			{
+				"type": "confirm",
+				"default": true,
+				"text": "是否观看片头？（四十秒）",
+				"yes": [
+					{
+						"type": "setVolume",
+						"value": 0,
+						"time": 0
+					},
+					{
+						"type": "playBgm",
+						"name": "startText.mp3"
+					},
+					{
+						"type": "setVolume",
+						"value": 100,
+						"time": 40000,
+						"async": true
+					},
+					{
+						"type": "scrollText",
+						"text": "这是一个很古老的故事\n在很久很久以前，在遥远的西方大地上，\n有着这样一个王国，\n王国虽小但全国的人们都生活得非常幸福和快乐。\n突然有一天，从天空飞来一群可怕的怪物，\n它们来到皇宫，抢走了国王唯一的女儿。\n第二天，国王便向全国下达了紧急令，\n只要谁能将公主给找回来，他便将王位让给他。\n于是，全国的勇士们都出发了。\n他们的足迹走遍了全国的各个角落，\n可一点儿线索都没有找到，时间很快就过去了一个月。\n终于，在国王命令下达的第三十一天，\n一个从远方归来的人告诉国王，\n说在海边的一座小岛上，曾看到一群怪物出现过。\n勇士们又出发了，可是，却没有一个人可以回来，\n有幸回来的，都再也不敢去了。\n而我们的故事，便是从这里开始……",
+						"time": 40000,
+						"lineHeight": 2
+					},
+					{
+						"type": "waitAsync"
+					}
+				],
+				"no": [
+					{
+						"type": "function",
+						"function": "function(){\ncore.addItem('yellowKey');\ncore.addItem('blueKey');\ncore.addItem('redKey');\ncore.hideBlock(6, 9, 'MT0');\ncore.setBlock('fairy', 5, 9, 'MT0')\n}"
+					}
+				]
+			},
+			{
+				"type": "setText",
+				"title": [
+					255,
+					255,
+					255,
+					1
+				],
+				"background": [
+					0,
+					0,
+					0,
+					1
+				]
+			}
+		],
+		"shops": [
+			{
+				"id": "moneyShop1",
+				"text": "\t[金币商店,moneyShop]想要增加你的能力吗？\n如果你有25个金币，你可以任意选择一项：",
+				"textInList": "三楼商店",
+				"mustEnable": false,
+				"disablePreview": false,
+				"choices": [
+					{
+						"text": "生命+800",
+						"need": "status:money>=25",
+						"action": [
+							{
+								"type": "comment",
+								"text": "新版商店中需要手动扣减金币和增加访问次数"
+							},
+							{
+								"type": "playSound",
+								"name": "queren.mp3"
+							},
+							{
+								"type": "setValue",
+								"name": "status:money",
+								"operator": "-=",
+								"value": "25"
+							},
+							{
+								"type": "setValue",
+								"name": "status:hp",
+								"operator": "+=",
+								"value": "800"
+							}
+						]
+					},
+					{
+						"text": "攻击+4",
+						"need": "status:money>=25",
+						"action": [
+							{
+								"type": "comment",
+								"text": "新版商店中需要手动扣减金币和增加访问次数"
+							},
+							{
+								"type": "playSound",
+								"name": "queren.mp3"
+							},
+							{
+								"type": "setValue",
+								"name": "status:money",
+								"operator": "-=",
+								"value": "25"
+							},
+							{
+								"type": "setValue",
+								"name": "status:atk",
+								"operator": "+=",
+								"value": "4"
+							}
+						]
+					},
+					{
+						"text": "防御+4",
+						"need": "status:money>=25",
+						"action": [
+							{
+								"type": "comment",
+								"text": "新版商店中需要手动扣减金币和增加访问次数"
+							},
+							{
+								"type": "playSound",
+								"name": "queren.mp3"
+							},
+							{
+								"type": "setValue",
+								"name": "status:money",
+								"operator": "-=",
+								"value": "25"
+							},
+							{
+								"type": "setValue",
+								"name": "status:def",
+								"operator": "+=",
+								"value": "4"
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "moneyShop2",
+				"text": "\t[金币商店,moneyShop]想要增加你的能力吗？\n如果你有100个金币，\n你可以任意选择一项：",
+				"textInList": "11楼商店",
+				"mustEnable": false,
+				"disablePreview": true,
+				"choices": [
+					{
+						"text": "增加4000点生命",
+						"need": "status:money>=100",
+						"action": [
+							{
+								"type": "playSound",
+								"name": "queren.mp3"
+							},
+							{
+								"type": "setValue",
+								"name": "status:money",
+								"operator": "-=",
+								"value": "100"
+							},
+							{
+								"type": "setValue",
+								"name": "status:hp",
+								"operator": "+=",
+								"value": "4000"
+							}
+						]
+					},
+					{
+						"text": "增加20点攻击",
+						"need": "status:money>=100",
+						"action": [
+							{
+								"type": "playSound",
+								"name": "queren.mp3"
+							},
+							{
+								"type": "setValue",
+								"name": "status:money",
+								"operator": "-=",
+								"value": "100"
+							},
+							{
+								"type": "setValue",
+								"name": "status:atk",
+								"operator": "+=",
+								"value": "20"
+							}
+						]
+					},
+					{
+						"text": "增加20点防御",
+						"need": "status:money>=100",
+						"action": [
+							{
+								"type": "playSound",
+								"name": "queren.mp3"
+							},
+							{
+								"type": "setValue",
+								"name": "status:money",
+								"operator": "-=",
+								"value": "100"
+							},
+							{
+								"type": "setValue",
+								"name": "status:def",
+								"operator": "+=",
+								"value": "20"
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "expShop1",
+				"text": "\t[经验老人,man]你好，英雄的人类，只要你有足够的经验，我就可以让你变得更强大：",
+				"textInList": "五楼老人",
+				"mustEnable": false,
+				"disablePreview": true,
+				"choices": [
+					{
+						"text": "提升一级（100）",
+						"need": "status:exp>=100",
+						"action": [
+							{
+								"type": "playSound",
+								"name": "queren.mp3"
+							},
+							{
+								"type": "setValue",
+								"name": "status:exp",
+								"operator": "-=",
+								"value": "100"
+							},
+							{
+								"type": "setValue",
+								"name": "status:lv",
+								"operator": "+=",
+								"value": "1"
+							},
+							{
+								"type": "setValue",
+								"name": "status:hp",
+								"operator": "+=",
+								"value": "1000"
+							},
+							{
+								"type": "setValue",
+								"name": "status:atk",
+								"operator": "+=",
+								"value": "7"
+							},
+							{
+								"type": "setValue",
+								"name": "status:def",
+								"operator": "+=",
+								"value": "7"
+							}
+						]
+					},
+					{
+						"text": "增加攻击5（30）",
+						"need": "status:exp>=30",
+						"action": [
+							{
+								"type": "playSound",
+								"name": "queren.mp3"
+							},
+							{
+								"type": "setValue",
+								"name": "status:exp",
+								"operator": "-=",
+								"value": "30"
+							},
+							{
+								"type": "setValue",
+								"name": "status:atk",
+								"operator": "+=",
+								"value": "5"
+							}
+						]
+					},
+					{
+						"text": "增加防御5（30）",
+						"need": "status:exp>=30",
+						"action": [
+							{
+								"type": "playSound",
+								"name": "queren.mp3"
+							},
+							{
+								"type": "setValue",
+								"name": "status:exp",
+								"operator": "-=",
+								"value": "30"
+							},
+							{
+								"type": "setValue",
+								"name": "status:def",
+								"operator": "+=",
+								"value": "5"
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "expShop2",
+				"text": "\t[经验老人,man]你好，英雄的人类，只要你有足够的经验，我就可以让你变得更强大：",
+				"textInList": "13楼老人",
+				"mustEnable": false,
+				"disablePreview": true,
+				"choices": [
+					{
+						"text": "提升三级（270）",
+						"need": "status:exp>=270",
+						"action": [
+							{
+								"type": "playSound",
+								"name": "queren.mp3"
+							},
+							{
+								"type": "setValue",
+								"name": "status:exp",
+								"operator": "-=",
+								"value": "270"
+							},
+							{
+								"type": "setValue",
+								"name": "status:lv",
+								"operator": "+=",
+								"value": "3"
+							},
+							{
+								"type": "setValue",
+								"name": "status:hp",
+								"operator": "+=",
+								"value": "3000"
+							},
+							{
+								"type": "setValue",
+								"name": "status:atk",
+								"operator": "+=",
+								"value": "20"
+							},
+							{
+								"type": "setValue",
+								"name": "status:def",
+								"operator": "+=",
+								"value": "20"
+							}
+						]
+					},
+					{
+						"text": "增加攻击17（95）",
+						"need": "status:exp>=95",
+						"action": [
+							{
+								"type": "playSound",
+								"name": "queren.mp3"
+							},
+							{
+								"type": "setValue",
+								"name": "status:exp",
+								"operator": "-=",
+								"value": "95"
+							},
+							{
+								"type": "setValue",
+								"name": "status:atk",
+								"operator": "+=",
+								"value": "17"
+							}
+						]
+					},
+					{
+						"text": "增加防御17（95）",
+						"need": "status:exp>=95",
+						"action": [
+							{
+								"type": "playSound",
+								"name": "queren.mp3"
+							},
+							{
+								"type": "setValue",
+								"name": "status:exp",
+								"operator": "-=",
+								"value": "95"
+							},
+							{
+								"type": "setValue",
+								"name": "status:def",
+								"operator": "+=",
+								"value": "17"
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "keyShop1",
+				"text": "\t[购入钥匙,trader]相信你一定有特殊的需要，只要你有金币，我就可以帮你：",
+				"textInList": "购入钥匙",
+				"mustEnable": false,
+				"disablePreview": true,
+				"choices": [
+					{
+						"text": "购买1把黄钥匙（10）",
+						"need": "status:money>=10",
+						"action": [
+							{
+								"type": "setValue",
+								"name": "status:money",
+								"operator": "-=",
+								"value": "10"
+							},
+							{
+								"type": "setValue",
+								"name": "item:yellowKey",
+								"operator": "+=",
+								"value": "1"
+							}
+						]
+					},
+					{
+						"text": "购买1把蓝钥匙（50）",
+						"need": "status:money>=50",
+						"action": [
+							{
+								"type": "setValue",
+								"name": "status:money",
+								"operator": "-=",
+								"value": "50"
+							},
+							{
+								"type": "setValue",
+								"name": "item:blueKey",
+								"operator": "+=",
+								"value": "1"
+							}
+						]
+					},
+					{
+						"text": "购买1把红钥匙（100）",
+						"need": "status:money>=100",
+						"action": [
+							{
+								"type": "setValue",
+								"name": "status:money",
+								"operator": "-=",
+								"value": "100"
+							},
+							{
+								"type": "setValue",
+								"name": "item:redKey",
+								"operator": "+=",
+								"value": "1"
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "keyShop2",
+				"textInList": "卖出钥匙",
+				"mustEnable": false,
+				"commonEvent": "回收钥匙商店"
+			}
+		],
+		"levelUp": [
+			{
+				"need": "0",
+				"title": "",
+				"action": [
+					{
+						"type": "comment",
+						"text": "此处是初始等级，只需填写称号"
+					}
+				]
+			},
+			{
+				"need": "20",
+				"title": "",
+				"action": [
+					{
+						"type": "setValue",
+						"name": "status:atk",
+						"operator": "+=",
+						"value": "10"
+					},
+					{
+						"type": "setValue",
+						"name": "status:def",
+						"operator": "+=",
+						"value": "10"
+					}
+				]
+			},
+			{
+				"need": "40",
+				"title": "",
+				"action": [
+					{
+						"type": "tip",
+						"text": "恭喜升级"
+					}
+				]
+			}
+		]
+	},
+	"values": {
+		"lavaDamage": 100,
+		"poisonDamage": 10,
+		"weakValue": 20,
+		"redGem": 3,
+		"blueGem": 3,
+		"greenGem": 5,
+		"redPotion": 200,
+		"bluePotion": 500,
+		"yellowPotion": 500,
+		"greenPotion": 800,
+		"breakArmor": 0.9,
+		"counterAttack": 0.1,
+		"purify": 3,
+		"hatred": 2,
+		"animateSpeed": 300,
+		"moveSpeed": 100,
+		"statusCanvasRowsOnMobile": 3,
+		"floorChangeTime": 500
+	},
+	"flags": {
+		"statusBarItems": [
+			"enableFloor",
+			"enableLv",
+			"enableHP",
+			"enableAtk",
+			"enableDef",
+			"enableMoney",
+			"enableExp",
+			"enableKeys"
+		],
+		"extendToolbar": true,
+		"flyNearStair": false,
+		"flyRecordPosition": false,
+		"itemFirstText": false,
+		"equipboxButton": false,
+		"enableAddPoint": false,
+		"enableNegativeDamage": false,
+		"betweenAttackMax": false,
+		"useLoop": true,
+		"startUsingCanvas": false,
+		"statusCanvas": true,
+		"enableEnemyPoint": true,
+		"enableGentleClick": true,
+		"ignoreChangeFloor": false,
+		"canGoDeadZone": false,
+		"enableMoveDirectly": true,
+		"enableRouteFolding": true,
+		"disableShopOnDamage": false,
+		"blurFg": false
+	}
+}
